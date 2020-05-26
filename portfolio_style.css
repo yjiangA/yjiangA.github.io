@@ -2,8 +2,9 @@ header {
     background-color: seagreen;
     float: left;
     width: 350px;
-    height: 400px;
+    height: 500px;
     margin: -5px;
+    text-align: center;
 }
 
 .content {
@@ -16,6 +17,10 @@ h2 {
 
 p {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 img {
@@ -44,8 +49,4 @@ th, td {
 
 #resume {
     height: 1500px;
-    }
-
-#bio {
-    height: 500px;
     }
