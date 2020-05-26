@@ -1,0 +1,29 @@
+header {
+    background-color: seagreen;
+    float: left;
+    width: 25%;
+    height: 400px;
+    margin: -5px;
+}
+
+.content {
+    padding: -5px;
+    float: right;
+    width: 75%;
+}
+
+h2 {
+    background-color: lightgreen;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#resume {
+    height: 1500px;
+    }
+
+#bio {
+        height: 300px;
+    }
